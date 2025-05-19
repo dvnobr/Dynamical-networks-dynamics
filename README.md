@@ -4,3 +4,5 @@ This repository includes the Julia codes for two different systems in dynamical 
 oscillators.jl is the code for ecological oscillators, which are populations that oscillate according to a noisy Ricker map in the period-2 cyclic regime. Different nodes interact via migration.
 
 ising.jl is the code for Ising spins, which can have a value of +1 or -1. Spins tend to align with neighbors in a description of ferromagnetism.
+
+To cite this, please use https://doi.org/10.5281/zenodo.15466486.
